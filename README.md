@@ -1,4 +1,4 @@
-# salt-grains-envrionment
+# salt-grains-environment
 
 My solution to managing what environment my computers are in.
 
