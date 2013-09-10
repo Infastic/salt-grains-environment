@@ -14,7 +14,7 @@ pre looks in pre then prd for modules and such.
 prd looks in prd for modules and such.
 ... this is controlled in the /etc/salt/master file
 
-:maintainer:    Ray Piller
+:maintainer:    VertigoRay < http://github.com/VertigoRay >
 '''
 
 import socket
